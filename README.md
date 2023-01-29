@@ -4,4 +4,9 @@
 
 <br>
 
-<p>In case of a signup form, it takes in some information of the person trying to register.</p> 
+<p>A login and signup form using HTML and CSS. This form allows users to register.It does not store any information because its only a design with no backend functionality.</p> 
+
+<img alt="preview" src="pic-1.png"><img alt="preview" src="pic-2.png">
+
+<h1>Features</h1>
+
